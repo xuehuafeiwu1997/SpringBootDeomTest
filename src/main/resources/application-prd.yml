@@ -1,0 +1,5 @@
+#生产环境
+mayikt:
+  address: prd.mayikt.com
+  age: ${random.int(10)}
+  name: prdmayikt

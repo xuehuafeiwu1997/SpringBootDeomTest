@@ -1,0 +1,5 @@
+#测试环境
+mayikt:
+  address: test.mayikt.com
+  age: ${random.int(10)}
+  name: testmayikt

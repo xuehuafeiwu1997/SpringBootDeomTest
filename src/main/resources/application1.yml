@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active:dev
+  ##这样就实现切换环境了
+
+  ##需要指定logback.xml配置文件路径
+  logging:
+    config: classpath:/log/logback.xml

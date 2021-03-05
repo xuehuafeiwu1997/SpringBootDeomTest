@@ -1,0 +1,5 @@
+#开发环境
+mayikt:
+  address: dev.mayikt.com
+  age: ${random.int(10)}
+  name: devmayikt
